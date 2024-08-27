@@ -8,4 +8,4 @@
 ~~OOPS I made an error~~
 
 # Image:
-![image of cat][https://myoctocat.com/assets/images/base-octocat.svg]
+![image of cat](https://myoctocat.com/assets/images/base-octocat.svg)

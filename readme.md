@@ -4,4 +4,4 @@ I have done alevels from Highbrow College.\
 I have done olevels from Beaconhouse School.\
 I am interested in Computers.
 
-![image of cat]([https://myoctocat.com/assets/images/base-octocat.svg](https://rbtechngames.com/wp-content/uploads/2020/11/msi-mech-rx-5700xt-1.png)
+![image]([https://myoctocat.com/assets/images/base-octocat.svg]https://rbtechngames.com/wp-content/uploads/2020/11/msi-mech-rx-5700xt-1.png)
